@@ -1,0 +1,18 @@
+/* css styles */
+
+/* styles.css */
+
+/* Change the background color of the navbar */
+.navbar {
+  background-color: gray;
+}
+
+/* Change the text color of the navbar links */
+.navbar a {
+  color: white;
+}
+
+/* Change the color of the bar on the My Projects page */
+.quarto-title-banner {
+  background-color: black;
+}

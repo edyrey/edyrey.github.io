@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Edy Reynolds"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - aboutme.qmd
+      - resume.qmd
+      - projects.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

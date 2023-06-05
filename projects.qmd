@@ -1,0 +1,52 @@
+---
+title: "My Projects"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+## The People's Kitchen of San Luis Obispo, CA
+```{=html}
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p><strong>Description:</strong> Working alongside Assistant Professor of Statistics Dr. Emily Robinson to digitize, create a data workflow, analyze, and produce dashboards to visualize data, specifically the number of meals served, for the local food kitchen.
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="images/PK_LOGO.png" alt="PK Logo" style="max-width: 300px;">
+  </div>
+</div>
+```
+
+## Speed and Footwear Experiment
+```{=html}
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+     <p style="margin: 0;"><strong>Description:</strong> STAT 365 - Statistical Communication project. Designed and carried out a fully randomized experiment to test if the type of footwear affects the speed of a single runner.</p>
+    <p style="margin: 0;"><strong>GitHub Link:</strong> <a href="https://github.com/edyrey/stat365_project">STAT 365 Project</a></p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="images/NBshoe.jpg" alt="NB shoe" style="max-width: 300px;">
+  </div>
+</div>
+```
+
+## Recall of Words Experiment
+```{=html}
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p style="margin: 0;"><strong>Description:</strong> STAT 323 - Design and Analysis of Experiments final project. Designed and carried out a repeated measures experiment to examine the effect of organizational patterns (ordered, random) and sound conditions (silence, white noise, music) on an individual’s ability to remember simple words. </p>
+    <p style="margin: 0;"><strong>GitHub Link:</strong> <a href="https://github.com/edyrey/stat323_finalproject">STAT 323 Final Project</a></p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="images/words.jpg" alt="Words" style="max-width: 250px;">
+  </div>
+</div>
+```
+
+...

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently a second-year undergraduate statistics major with a minor in economics at Cal Poly. As I enter my third year, I am driven by my passion for data management, data cleaning, and creating efficient data workflows that lead to insightful visualizations. My goal is to pursue a career as a data analyst, where I can apply my skills and creativity to uncover valuable insights from complex datasets.\nThroughout my academic journey, I have actively sought opportunities to gain practical experience in data management and visualization. I am currently working on a project with a professor where I focused on data cleaning and analysis. I have successfully completed coursework focused on advanced data visualization techniques. Additionally, I am proud of my achievements in creating interactive dashboards that effectively communicate complex information in a user-friendly manner.\nWhat excites me most about data management and visualization is the potential to make a significant impact. I believe that well-designed visualizations have the power to transform data into actionable insights, enabling individuals and organizations to make informed decisions. I am motivated to use my skills and passion to engage and inform others through compelling data visualizations.\n\nOutside of academia, I find solace and inspiration in nature. Hiking, mountain biking, and climbing are my favorite outdoor activities, allowing me to connect with the beauty of the natural world. Growing up, my family instilled in me a love for adventure and exploration, which continues to fuel my desire to seek new experiences and broaden my horizons.\nI am excited about the possibilities that lie ahead and look forward to leveraging my knowledge and passion for data management and visualization to contribute meaningfully to the field."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Edy Reynolds",
+    "section": "",
+    "text": "Undergraduate Statistics Student at California Polytechnic State University - Class of 2025\nWelcome to the hub for my resume, cover letter, projects, etc.\nIf you have any questions, comments, or concerns you can contact me at ereyno11@calpoly.edu"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Description: Working alongside Assistant Professor of Statistics Dr. Emily Robinson to digitize, create a data workflow, analyze, and produce dashboards to visualize data, specifically the number of meals served, for the local food kitchen."
+  },
+  {
+    "objectID": "projects.html#speed-and-footwear-experiment",
+    "href": "projects.html#speed-and-footwear-experiment",
+    "title": "My Projects",
+    "section": "Speed and Footwear Experiment",
+    "text": "Speed and Footwear Experiment\n\n  \n     Description: STAT 365 - Statistical Communication project. Designed and carried out a fully randomized experiment to test if the type of footwear affects the speed of a single runner.\n    GitHub Link: STAT 365 Project"
+  },
+  {
+    "objectID": "projects.html#recall-of-words-experiment",
+    "href": "projects.html#recall-of-words-experiment",
+    "title": "My Projects",
+    "section": "Recall of Words Experiment",
+    "text": "Recall of Words Experiment\n\n  \n    Description: STAT 323 - Design and Analysis of Experiments final project. Designed and carried out a repeated measures experiment to examine the effect of organizational patterns (ordered, random) and sound conditions (silence, white noise, music) on an individual’s ability to remember simple words. \n    GitHub Link: STAT 323 Final Project\n  \n  \n    \n  \n\n…"
+  }
+]
