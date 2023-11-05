@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Edy Reynolds"
 image: images/edy-01.JPG
@@ -23,29 +22,3 @@ resources:
 Welcome to the hub for my resume, cover letter, projects, etc.
 
 *If you have any questions, comments, or concerns you can contact me at ereyno11\@calpoly.edu*
-=======
----
-title: "Edy Reynolds"
-image: images/edy-01.JPG
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/edy-reynolds
-    - icon: github
-      text: Github
-      href: https://github.com/edyrey/edyrey
-    - icon: file-earmark-pdf-fill
-      text: Resume
-      href: Reynolds_Edy_Resume.pdf
-resources: 
-  - Reynolds_Edy_Resume.pdf
----
-
-**Undergraduate Statistics Student at California Polytechnic State University - Class of 2025**
-
-Welcome to the hub for my resume, cover letter, projects, etc.
-
-*If you have any questions, comments, or concerns you can contact me at ereyno11\@calpoly.edu*
->>>>>>> b2e56645b5851d9272fa93767c8b4282b80193be
