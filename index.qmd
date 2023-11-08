@@ -12,9 +12,9 @@ about:
       href: https://github.com/edyrey/edyrey
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: Reynolds_Edy_Resume.pdf
+      href: REYNOLDS_EDY_RESUME.pdf
 resources: 
-  - Reynolds_Edy_Resume.pdf
+  - REYNOLDS_EDY_RESUME.pdf
 ---
 
 **Undergraduate Statistics Student at California Polytechnic State University - Class of 2025**
