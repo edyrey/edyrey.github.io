@@ -12,6 +12,7 @@ title-block-banner: true
 ---
 
 ## The People's Kitchen of San Luis Obispo, CA
+
 ```{=html}
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -22,8 +23,8 @@ title-block-banner: true
   </div>
 </div>
 ```
-
 ## Speed and Footwear Experiment
+
 ```{=html}
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -35,8 +36,8 @@ title-block-banner: true
   </div>
 </div>
 ```
-
 ## Recall of Words Experiment
+
 ```{=html}
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -48,5 +49,4 @@ title-block-banner: true
   </div>
 </div>
 ```
-
 ...
