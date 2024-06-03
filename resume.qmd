@@ -2,7 +2,9 @@
 title: "My Resume"
 ---
 
-<iframe src="REYNOLDS_EDY_RESUME.pdf" width="100%" height="100%" frameborder="0"></iframe>
-
+<iframe src="REYNOLDS_EDY_RESUME.pdf" width="100%" height="100%" frameborder="0">
 
 </iframe>
+
+</iframe>
+
