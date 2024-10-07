@@ -17,6 +17,7 @@ title-block-banner: true
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p><strong>Description:</strong> Working alongside Assistant Professor of Statistics Dr. Emily Robinson to digitize, create a data workflow, analyze, and produce dashboards to visualize data, specifically the number of meals served, for the local food kitchen.
+    <p>Our work was featured in the <a href="https://statistics.calpoly.edu/news/stats-students-improve-meal-service-tracking-local-nonprofit" target="_blank">2024 Statistics Department newsletter</a>.</p>
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="images/PK_LOGO.png" alt="PK Logo" style="max-width: 300px;">
