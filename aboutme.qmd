@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-I am currently a fourth-year undergraduate statistics major pursuing a minor in economics at Cal Poly. As I enter my final year of my undergraduate education, I am continuously driven by my passion for data management, data cleaning, and creating efficient data workflows that lead to insightful visualizations. My goal is to pursue a career as a data analyst, where I can apply my skills and creativity to uncover valuable insights from complex datasets.
+I recently graduated from Cal Poly with a B.S. in Statistics and a minor in Economics, and I’m actively seeking full-time opportunities where I can apply my skills in data analysis, workflow automation, and visualization. I’m particularly passionate about data cleaning and building efficient, reliable pipelines that lead to clear and actionable insights.
 
-As I prepare to transition into the professional world, I am actively seeking opportunities where I can work collaboratively within a team environment. I am enthusiastic about contributing to and learning from a group of dedicated professionals, and I am committed to continuous growth and knowledge-sharing with my peers. My goal is to find a role that not only challenges me but also allows me to grow alongside others in a dynamic and supportive setting.
+As I transition into the professional world, I am actively seeking opportunities where I can work collaboratively within a team environment. I am enthusiastic about contributing to and learning from a group of dedicated professionals, and I am committed to continuous growth and knowledge-sharing with my peers. My goal is to find a role that not only challenges me but also allows me to grow alongside others in a dynamic and supportive setting.
 
 What excites me most about data management and visualization is the potential to make a significant impact. I believe that well-designed visualizations have the power to transform data into actionable insights, enabling individuals and organizations to make informed decisions. I am motivated to use my skills and passion to engage and inform others through compelling data visualizations.
 

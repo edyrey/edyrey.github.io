@@ -32,7 +32,7 @@
     "href": "projects.html#recall-of-words-experiment",
     "title": "My Projects",
     "section": "Recall of Words Experiment",
-    "text": "Recall of Words Experiment\n\n  \n    Description: STAT 323 - Design and Analysis of Experiments final project. Designed and carried out a repeated measures experiment to examine the effect of organizational patterns (ordered, random) and sound conditions (silence, white noise, music) on an individual’s ability to remember simple words. \n    GitHub Link: STAT 323 Final Project\n  \n  \n    \n  \n\n…"
+    "text": "Recall of Words Experiment\n\n  \n    Description: STAT 323 - Design and Analysis of Experiments final project. Designed and carried out a repeated measures experiment to examine the effect of organizational patterns (ordered, random) and sound conditions (silence, white noise, music) on an individual’s ability to remember simple words. \n    GitHub Link: STAT 323 Final Project"
   },
   {
     "objectID": "resume.html",
@@ -40,5 +40,19 @@
     "title": "My Resume",
     "section": "",
     "text": "<iframe src=“” width=“100%” height=“100%” frameborder=“0”>"
+  },
+  {
+    "objectID": "projects.html#survival-analysis-of-tree-saplings",
+    "href": "projects.html#survival-analysis-of-tree-saplings",
+    "title": "My Projects",
+    "section": "Survival Analysis of Tree Saplings",
+    "text": "Survival Analysis of Tree Saplings\n\n  \n    Description: STAT 417 - Survival Analysis Methods final project. Sourced data from a factorical blocked design field experiment to examine tree seedling survival. \n    GitHub Link: STAT 417 Final Project"
+  },
+  {
+    "objectID": "projects.html#prostate-cancer-prognosis-data-analysis",
+    "href": "projects.html#prostate-cancer-prognosis-data-analysis",
+    "title": "My Projects",
+    "section": "Prostate Cancer Prognosis Data Analysis",
+    "text": "Prostate Cancer Prognosis Data Analysis\n\n  \n    Description: STAT 418 - Categorical Data Analysis final project. Using prostate cancer clinical variables to predict capsular penetration.  \n    GitHub Link: STAT 418 Final Project\n  \n  \n    \n  \n\n…"
   }
 ]

@@ -50,4 +50,30 @@ title-block-banner: true
   </div>
 </div>
 ```
+## Survival Analysis of Tree Saplings
+
+```{=html}
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p style="margin: 0;"><strong>Description:</strong> STAT 417 - Survival Analysis Methods final project. Sourced data from a factorical blocked design field experiment to examine tree seedling survival. </p>
+    <p style="margin: 0;"><strong>GitHub Link:</strong> <a href="https://github.com/edyrey/stat417_finalproject">STAT 417 Final Project</a></p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="images/sapling.jpg" alt="Sapling" style="max-width: 250px;">
+  </div>
+</div>
+```
+## Prostate Cancer Prognosis Data Analysis
+
+```{=html}
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p style="margin: 0;"><strong>Description:</strong> STAT 418 - Categorical Data Analysis final project. Using prostate cancer clinical variables to predict capsular penetration.  </p>
+    <p style="margin: 0;"><strong>GitHub Link:</strong> <a href="https://github.com/edyrey/stat418_finalproject">STAT 418 Final Project</a></p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="images/prostate.jpg" alt="Prostate" style="max-width: 250px;">
+  </div>
+</div>
+```
 ...
