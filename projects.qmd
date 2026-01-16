@@ -76,4 +76,47 @@ title-block-banner: true
   </div>
 </div>
 ```
+## Automated Financial Data Warehouse (Python & Google Suite)
+
+```{=html}
+<div>
+
+  <!-- Image floated left -->
+  <img src="images/data_automation.jpg"
+       alt="DataAutomation"
+       style="float: right; max-width: 250px; margin: 0 20px 15px 0;">
+
+  <!-- Text that should sit next to the image -->
+  <p style="margin: 0;"><strong>Tools:</strong> Python (pandas), Google Apps Script, Google Sheets, Excel, Google Drive</p>
+  <p style="margin: 0;"><strong>Focus:</strong> Data automation, ETL design, reproducible analytics workflows</p>
+
+  <p>
+    I designed and implemented an automated financial data pipeline to streamline monthly reporting across multiple departments.
+    The system ingests multi-sheet income statement files, parses unstructured revenue and expense sections, standardizes records
+    using a centralized GL reference table, and appends clean, deduplicated data into a long-format warehouse.
+  </p>
+
+  <!-- Content that should flow BELOW the image -->
+  <div style="clear: both;"></div>
+
+  <p style="margin-bottom: 5px;"><strong>Implemented in two environments:</strong></p>
+  <ul style="margin-top: 0;">
+    <li>Python-based workflow for local or shared-drive execution</li>
+    <li>Google Suite workflow using Apps Script for non-technical users</li>
+  </ul>
+
+  <p>
+    To preserve confidentiality, all public code examples use <strong>synthetic data</strong>
+    while maintaining the full production logic.
+  </p>
+
+  <p style="margin: 0;">
+    <strong>GitHub Link:</strong>
+    <a href="https://github.com/edyrey/financial_data_warehouse_automation">
+      Automated Financial Data Warehouse Project
+    </a>
+  </p>
+
+</div>
+```
 ...
