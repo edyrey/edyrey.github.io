@@ -1,6 +1,11 @@
 ---
 title: "Edy Reynolds"
 image: images/Professional_Headshot.JPG
+
+format:
+  html:
+    css: styles.css
+    
 about:
   template: jolla
   links:
@@ -17,7 +22,7 @@ resources:
   - REYNOLDS_EDY_RESUME.pdf
 ---
 
-**Undergraduate Statistics Student at California Polytechnic State University - Class of 2025**
+**B.S. in Statistics with a minor in Economics from California Polytechnic State University, San Luis Obispo - 2021-2025**
 
 Welcome to the hub for my resume, cover letter, projects, etc.
 

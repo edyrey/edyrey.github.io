@@ -16,3 +16,9 @@
 .quarto-title-banner {
   background-color: black;
 }
+
+/* Change to orientation of cover page photo */
+.quarto-about-jolla img {
+  object-fit: cover;
+  object-position: 50% 10% !important;
+}
