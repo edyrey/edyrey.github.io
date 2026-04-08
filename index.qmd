@@ -1,6 +1,6 @@
 ---
 title: "Edy Reynolds"
-image: images/edy-01.JPG
+image: images/Professional_Headshot.JPG
 about:
   template: jolla
   links:
